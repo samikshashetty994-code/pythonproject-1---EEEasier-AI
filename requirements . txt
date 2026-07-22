@@ -1,0 +1,8 @@
+pip install streamlit
+pip install streamlit-option-menu
+pip install pillow
+pip install easyocr
+pip install google-generativeai
+pip install pymupdf
+pip install gtts
+pip install openai
